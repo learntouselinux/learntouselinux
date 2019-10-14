@@ -1,6 +1,6 @@
 # Learn To Use Linux!
 
-learntouselinux.com (often referred to as "ltul") is a community project for teaching people how to use Linux, and as a project framework for teaching ourselves how to be better teammates, project and product managers, and infrastructure engineers. 
+learntouselinux.com (often referred to as "ltul") is a community project for teaching people how to use Linux, and as a project framework for teaching ourselves how to be better teammates, project and product managers, and software engineers. 
 
 Over time this project will have many evolutions, each of which should be able to stand alone as an entire site. These evolutions will be captured as GitHub milestones. This will allow users to start with the basics, and learn how to scale out infrastructure and web applications at their own pace (independent of the pace of development of this project). 
 
@@ -11,31 +11,31 @@ Over time this project will have many evolutions, each of which should be able t
 
 
 ## Who We Are
-### bri997
+### [bri997](https://github.com/Bri997)
 Full-stack turned infrastructure engineer, enjoys deleting MBRs
 
-### deetergp
+### [deetergp](https://github.com/deetergp)
 PHP nerd who should bring his dog Moose to team meetings more often
 
-### jerrywardlow
+### [jerrywardlow](https://github.com/jerrywardlow)
 Project founder and ~supreme overlord~ team wrangler, enjoys spending money on keyboards and putting them in a pile
 
-### objectsforheads
+### [objectsforheads](https://github.com/objectsforheads)
 Loves CSS and wearing tin-foil hats
 
-### qpfiffer
+### [qpfiffer](https://github.com/qpfiffer)
 Attends team meetings via self-made video recordings, obsesses over mustard
 
-### sanchezricky
+### [sanchezricky](https://github.com/sanchezricky)
 A True Friend who puts stickers on everything
 
-### swhi3635
+### [swhi3635](https://github.com/swhi3635)
 Hits pucks and computers with sticks until they do his bidding
 
-### toozej
+### [toozej](https://github.com/toozej)
 Resident note-taker and loud typist
 
-### yevgenybulochnik
+### [yevgenybulochnik](https://github.com/yevgenybulochnik)
 Embraces Apple's vision of iPads for software development
 
 
